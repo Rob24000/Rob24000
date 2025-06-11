@@ -2,7 +2,7 @@
 <h3>💻 Developer focused on desktop and web technologies</h3>
 
 <p align="center">
-  <img src="https://kinsta.com/wp-content/uploads/2021/03/the-most-popular-programming-languages-to-learn.png" 
+  <img src="https://img.lovepik.com/background/20211021/large/lovepik-blue-line-technology-banner-background-image_400110774.jpg" 
        width="1001" height="200" alt="Banner"/>
 </p>
 
