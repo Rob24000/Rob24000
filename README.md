@@ -18,7 +18,8 @@ Hola, mi nombre es Robert Isaac Rodríguez
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png)" title="MySQL" alt="MySQL" width="40"/>
+  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" title="MySQL" alt="MySQL" width="40"/>
+
 </p>
 
 ---
