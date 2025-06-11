@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Robert Rodriguez</h1>
-<h3 align="center">💻 Developer focused on desktop and web technologies</h3>
+<h3>💻 Developer focused on desktop and web technologies</h3>
 
 <p align="center">
   <img src="https://kinsta.com/wp-content/uploads/2021/03/the-most-popular-programming-languages-to-learn.png" 
-       width="950" height="200" alt="Banner"/>
+       width="1001" height="200" alt="Banner"/>
 </p>
 
 
