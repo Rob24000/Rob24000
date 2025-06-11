@@ -28,7 +28,7 @@ Hola, mi nombre es *
 
 ## 📫 Contact
 - Email:  
-- LinkedIn: [linkedin.com/in/jeremy](https://linkedin.com/in/)  
+- LinkedIn: [  
 - GitHub: [github.com/tuusuario](https://github.com/tuusuario)
 
 ---
