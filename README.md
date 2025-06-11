@@ -17,10 +17,10 @@
 
 ---
 
-### 💼 Portfolio
+## 💼 Portfolio
 RFKLERJG
 ---
-### 🚀 Skills
+## 🚀 Skills
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40"/>
@@ -32,7 +32,7 @@ RFKLERJG
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 - 🔸
 - 🔸
 - 🔸
@@ -41,7 +41,7 @@ RFKLERJG
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 - 📧 Robrodrigerm@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/robertrodriguez)  
 - 🌐 [GitHub](https://github.com/Rob24000)
