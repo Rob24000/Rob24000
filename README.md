@@ -8,10 +8,10 @@
 ---
 
 ### 🧠 About Me
-- 🎯 Passionate about building **desktop apps** with **C# Windows Forms**  
-- 🖥️ Also exploring web technologies like **HTML, CSS, JavaScript**  
-- 📦 I love solving real-world problems with clean, functional interfaces  
-- ⚡ Always learning and improving!
+- 🎯 Apasionado por crear aplicaciones de escritorio con C# Windows Forms 
+- 🖥️ También explorando tecnologías web como HTML, CSS, JavaScript
+- 📦 Me encanta resolver problemas reales con interfaces limpias y funcionales  
+- ⚡ ¡Siempre aprendiendo y mejorando!
 
 ---
 
@@ -28,7 +28,9 @@
 ---
 
 ### 📂 Featured Projects
-| Project | Description | Tech |
+- 🔸
+- 🔸
+- 🔸
 
 
 ---
