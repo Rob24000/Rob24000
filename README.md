@@ -36,9 +36,9 @@
 ---
 
 ### 📫 Contact Me
-- 📧 robert@example.com  
+- 📧 Robrodrigerm@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/robertrodriguez)  
-- 🌐 [GitHub](https://github.com/tuusuario)
+- 🌐 [GitHub](https://github.com/Rob24000))
 
 ---
 
