@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍💻 About me
-Hola, mi nombre es *
+Hola, mi nombre es Robert Isaac Rodríguez
 
 ---
 
@@ -28,10 +28,9 @@ Hola, mi nombre es *
 
 ## 📫 Contact
 - Email:  
-- LinkedIn: [  
-- GitHub: [github.com/tuusuario](https://github.com/tuusuario)
-
----
+- LinkedIn:  
+- GitHub:
+- 
 
 ⭐ *Gracias por visitar mi perfil*
 
