@@ -31,6 +31,7 @@
 - 🔸
 - 🔸
 - 🔸
+- 🔸
 
 
 ---
@@ -38,7 +39,7 @@
 ### 📫 Contact Me
 - 📧 Robrodrigerm@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/robertrodriguez)  
-- 🌐 [GitHub](https://github.com/Rob24000))
+- 🌐 [GitHub](https://github.com/Rob24000)
 
 ---
 
