@@ -1,50 +1,57 @@
-<h1 align="center">Software Engineer | C# & .NET | SQL & MySQL | Web Development</h1>
-<h3>💻 Developer focused on desktop and web technologies</h3>
+<h1 align="center">
+  Software Engineering Student | C# & .NET | SQL | Web Development
+</h1>
 
 <p align="center">
-  <img src="https://img.lovepik.com/background/20211021/large/lovepik-blue-line-technology-banner-background-image_400110774.jpg" 
-       width="1001" height="200" alt="Banner"/>
+  I am a Software Engineering student focused on software development,
+  databases, and web technologies.
 </p>
 
-
----
-
-### 🧠 About Me
-- 🎯 Apasionado por crear aplicaciones de escritorio con C# Windows Forms 
-- 🖥️ También explorando tecnologías web como HTML, CSS, JavaScript
-- 📦 Me encanta resolver problemas reales con interfaces limpias y funcionales  
-- ⚡ ¡Siempre aprendiendo y mejorando!
-
----
-
-## 💼 Portfolio
- RFKLERJG
----
-## 🚀 Skills
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50"/>
+  I develop applications and projects using C#, .NET, SQL, MySQL,
+  Node.js, Express, React, and Oracle APEX.
 </p>
 
----
+<h2 align="center">Technical Focus</h2>
 
-## 📂 Featured Projects
-- 🔸
-- 🔸
-- 🔸
-- 🔸
+<table align="center">
+<tr>
+<td align="center"><b>Programming</b></td>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Backend</b></td>
+<td align="center"><b>Databases</b></td>
+<td align="center"><b>Tools</b></td>
+</tr>
 
----
+<tr>
+<td align="center">
 
-## 📫 Contact Me
-- 📧 Robrodrigerm@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/robertrodriguez)  
-- 🌐 [GitHub](https://github.com/Rob24000)
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
----
+</td>
 
-⭐ *Thanks for stopping by!*
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle" />
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
+</td>
+</tr>
+</table>
