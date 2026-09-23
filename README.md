@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert Rodriguez</h1>
+<h1 align="center">Software Engineer | C# & .NET | SQL & MySQL | Web Development</h1>
 <h3>💻 Developer focused on desktop and web technologies</h3>
 
 <p align="center">
